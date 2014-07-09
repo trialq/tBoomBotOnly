@@ -1,20 +1,12 @@
 {
    "units":[
-      "/pa/units/air/air_factory/air_factory.json",
-      "/pa/units/air/air_factory_adv/air_factory_adv.json",
-      "/pa/units/air/base_flyer/base_flyer.json",
-      "/pa/units/air/fabrication_aircraft/fabrication_aircraft.json",
-      "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv.json",
-      "/pa/units/air/missile/missile.json",
-      "/pa/units/air/missile_orbital/missile_orbital.json",
-      "/pa/units/air/missile_orbital_booster/missile_orbital_booster.json",
-      "/pa/units/air/transport/transport.json",
       "/pa/units/commanders/avatar/avatar.json",
       "/pa/units/commanders/base_commander/base_commander.json",
       "/pa/units/commanders/imperial_alpha/imperial_alpha.json",
       "/pa/units/commanders/imperial_aryst0krat/imperial_aryst0krat.json",
       "/pa/units/commanders/imperial_base/imperial_base.json",
       "/pa/units/commanders/imperial_delta/imperial_delta.json",
+      "/pa/units/commanders/imperial_gamma/imperial_gamma.json",
       "/pa/units/commanders/imperial_invictus/imperial_invictus.json",
       "/pa/units/commanders/imperial_progenitor/imperial_progenitor.json",
       "/pa/units/commanders/imperial_theta/imperial_theta.json",
@@ -34,11 +26,13 @@
       "/pa/units/commanders/raptor_rallus/raptor_rallus.json",
       "/pa/units/commanders/tank_aeson/tank_aeson.json",
       "/pa/units/commanders/tank_base/tank_base.json",
+
       "/pa/units/land/avatar_factory/avatar_factory.json",
       "/pa/units/land/base_bot/base_bot.json",
       "/pa/units/land/base_structure/base_structure.json",
       "/pa/units/land/base_unit/base_unit.json",
       "/pa/units/land/base_vehicle/base_vehicle.json",
+
       "/pa/units/land/bot_bomb/bot_bomb.json",
       "/pa/units/land/bot_factory/bot_factory.json",
       "/pa/units/land/bot_factory_adv/bot_factory_adv.json",
@@ -47,22 +41,28 @@
       "/pa/units/land/energy_storage/energy_storage.json",
       "/pa/units/land/fabrication_bot/fabrication_bot.json",
       "/pa/units/land/fabrication_bot_adv/fabrication_bot_adv.json",
-      "/pa/units/land/fabrication_vehicle/fabrication_vehicle.json",
-      "/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv.json",
       "/pa/units/land/land_scout/land_scout.json",
+
       "/pa/units/land/metal_extractor/metal_extractor.json",
       "/pa/units/land/metal_extractor_adv/metal_extractor_adv.json",
       "/pa/units/land/metal_storage/metal_storage.json",
+
       "/pa/units/land/radar/radar.json",
       "/pa/units/land/radar_adv/radar_adv.json",
+
       "/pa/units/land/teleporter/teleporter.json",
       "/pa/units/land/unit_cannon/unit_cannon.json",
       "/pa/units/land/vehicle_factory/vehicle_factory.json",
-      "/pa/units/land/vehicle_factory_adv/vehicle_factory_adv.json",
+
       "/pa/units/orbital/base_orbital/base_orbital.json",
       "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
       "/pa/units/orbital/deep_space_radar/deep_space_radar.json",
-      "/pa/units/orbital/orbital_lander/orbital_lander.json",
-      "/pa/units/orbital/orbital_launcher/orbital_launcher.json"
+      "/pa/units/orbital/ion_defense/ion_defense.json",
+      "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.json",
+      "/pa/units/orbital/orbital_factory/orbital_factory.json",
+      "/pa/units/orbital/orbital_launcher/orbital_launcher.json",
+      "/pa/units/orbital/radar_satellite/radar_satellite.json",
+      "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json",
+      "/pa/units/orbital/solar_array/solar_array.json"
    ]
 }
